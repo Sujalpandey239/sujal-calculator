@@ -12,3 +12,9 @@ y=2-1
 #multplication function
 
 z=2*1
+
+
+#division function
+
+a=25/5
+
